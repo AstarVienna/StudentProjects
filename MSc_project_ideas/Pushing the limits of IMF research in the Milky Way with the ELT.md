@@ -1,9 +1,13 @@
 # Pushing the limits of IMF research in the Milky Way with the ELT
 
 **Title**: Pushing the limits of future IMF research in the Milky Way with the ELT
+
 **Supervisor**: Dr. Kieran Leschinski (Univ. Vienna)
+
 **Contact information**: kieran.leschinski@univie.ac.at
+
 **Expected duration**: 9 months
+
 **Starting date**: Rolling
 
 ## Project description & goals
@@ -39,7 +43,7 @@ The ultimate goal of this project is to create a "Handbook of IMF observation ta
 - Basic understanding of the optical limitations of telescope observations (Plate scale, PSFs, etc)
 
 ## References
-https://ui.adsabs.harvard.edu/abs/2020A%26A...639A.120L/abstract
-https://heasarc.gsfc.nasa.gov/W3Browse/all/mwsc.html
-https://scopesim.readthedocs.io/en/latest/
+1. https://ui.adsabs.harvard.edu/abs/2020A%26A...639A.120L/abstract
+2. https://heasarc.gsfc.nasa.gov/W3Browse/all/mwsc.html
+3. https://scopesim.readthedocs.io/en/latest/
 

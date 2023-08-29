@@ -1,9 +1,13 @@
 # Building observation simulators for VLT/ELT instruments
 
 **Title**: Building observation simulators for VLT/ELT instruments
+
 **Supervisor**: Dr. Kieran Leschinski (Univ. Vienna)
+
 **Contact information**: kieran.leschinski@univie.ac.at
+
 **Expected duration**: 9 months
+
 **Starting date**: Rolling
 
 ## Project description & goals
@@ -37,6 +41,6 @@ Ultimately these instrument pacakges will be released to the public via the IRDB
 - Intermediate understanding of telescope and instrument optical characteristics
 
 ## References
-https://ui.adsabs.harvard.edu/abs/2020SPIE11452E..1ZL/
-https://scopesim.readthedocs.io/en/latest/
-https://irdb.readthedocs.io/en/latest/
+1. https://ui.adsabs.harvard.edu/abs/2020SPIE11452E..1ZL/
+2. https://scopesim.readthedocs.io/en/latest/
+3. https://irdb.readthedocs.io/en/latest/

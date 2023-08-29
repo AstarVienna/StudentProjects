@@ -1,4 +1,4 @@
-# StudentProjects
+# ELT Group Student Projects
 
 A list of pojects for Bachelor and Master students offered by the ELT group:
 
