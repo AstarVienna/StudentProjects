@@ -4,11 +4,12 @@ A list of pojects for Bachelor and Master students offered by the ELT group:
 
 ## Projects
 Please see the ideas listed in the following repo directories:
-- [Bachelor project ideas](./BSc_project_ideas)
-- [Master project ideas](./MSc_project_ideas)
+- [Bachelor project ideas](./Ideas_BSc_project)
+- [Master project ideas](./Ideas_MSc_project_ideas)
 
 ## Projects currently underway
-Much empty. Such wow.
+
+
 
 ## Contact
 If you are interested in starting a project with us, your can contact us in number of ways:
